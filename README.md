@@ -16,7 +16,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Vipont&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<img src="https://raw.githubusercontent.com/Vipont/Vipont/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vipont/Vipont/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vipont/Vipont/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vipont/Vipont/output/pacman-contribution-graph.svg">
+</picture>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
